@@ -1,0 +1,368 @@
+/* 
+  ##Device = Most of the Galaxi Fold Mobiles (Portrait)
+  ##Screen = B/w 279px to 319px
+*/
+
+@media (min-width: 279px) and (max-width: 319px) {
+  
+  /* CSS */
+
+.header{
+      padding: 1px 0px;
+    }
+    .container{
+      width: 90%;
+      margin: 0px auto;
+}
+    .col-6 {
+      width: 100%;
+      float: left;
+      margin: 0px 0px 0px 10px;
+}
+    .header .logo{
+      display: block;
+      text-align: left;
+}
+    .nav-menu{
+      text-align: left;
+}
+    .nav-menu li a{
+      font-size: 10px;
+      margin: 10px 5px 0px;
+}
+    .benner{
+      padding: 30px 0px;
+    }
+    .benner h1{
+      font-size: 26px;
+      line-height: 36px;
+      margin: 40px 0px 10px;
+    }
+    .benner p{
+      font-size: 10px;
+      line-height: 20px;
+    }
+    .benner img{
+      width: 80%;
+    }
+    .successfully{
+      width: 100%;
+      padding: 50px 0px;
+    }
+    .left-text{
+      text-align: left;
+      margin: 0px 0px 0px 20px;
+    }
+    .left-text h1{
+      font-size: 26px;
+      line-height: 36px;
+    }
+    .left-text p{
+      font-size: 10px;
+      line-height: 20px;
+    }
+    .right-text h1{
+      font-size: 26px;
+      line-height: 36px;
+    }
+    .feature{
+      padding: 0px 0px 40px;
+    }
+    .inner-feature{
+      padding: 40px 30px;
+      margin: 0px 0px 15px 24px;
+    }
+    .col-4{
+      width: 80%;
+      float: left;
+    }
+    .footer{
+      width: 100%;
+      padding: 3px 0px;
+    }
+    .footer p{
+      font-size: 10px;
+      line-height: 20px;
+    }
+
+
+  /* CSS */
+  
+}
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+
+    .header{
+      padding: 7px 0px;
+    }
+    .container{
+      width: 90%;
+      margin: 0px auto;
+}
+    .col-6 {
+      width: 100%;
+      float: left;
+      margin: 0px 0px 0px 10px;
+}
+    .header .logo{
+      display: block;
+      text-align: left;
+}
+    .nav-menu{
+      text-align: left;
+}
+    .nav-menu li a{
+      font-size: 12px;
+}
+    .benner{
+      padding: 30px 0px;
+    }
+    .benner h1{
+      font-size: 28px;
+      line-height: 38px;
+      margin: 40px 0px 10px;
+    }
+    .benner p{
+      font-size: 12px;
+      line-height: 22px;
+    }
+    .benner img{
+      width: 80%;
+    }
+    .successfully{
+      width: 100%;
+      padding: 50px 0px;
+    }
+    .left-text{
+      text-align: left;
+      margin: 0px 0px 0px 20px;
+    }
+    .left-text h1{
+      font-size: 28px;
+      line-height: 38px;
+    }
+    .left-text p{
+      font-size: 12px;
+      line-height: 22px;
+    }
+    .right-text h1{
+      font-size: 28px;
+      line-height: 38px;
+    }
+    .feature{
+      padding: 0px 0px 40px;
+    }
+    .inner-feature{
+      padding: 40px 30px;
+      margin: 0px 0px 15px 26px;
+    }
+    .col-4{
+      width: 100%;
+      float: left;
+    }
+    .footer{
+      width: 100%;
+      padding: 7px 0px;
+    }
+    .footer p{
+      font-size: 12px;
+      line-height: 22px;
+    }
+
+  /* CSS */
+  
+}
+
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+
+    .header{
+      padding: 8px 0px;
+    }
+    .container{
+      width: 90%;
+      margin: 0px auto;
+}
+    .col-6 {
+      width: 100%;
+      float: left;
+      margin: 0px 0px 0px 10px;
+}
+    .header .logo{
+      display: block;
+      text-align: left;
+}
+    .nav-menu{
+      text-align: left;
+}
+    .nav-menu li a{
+      font-size: 13px;
+}
+    .benner{
+      padding: 40px 0px;
+    }
+    .benner h1{
+      font-size: 30px;
+      line-height: 40px;
+      margin: 40px 0px 10px;
+    }
+    .benner p{
+      font-size: 13px;
+      line-height: 23px;
+    }
+    .benner img{
+      width: 80%;
+    }
+    .successfully{
+      width: 100%;
+      padding: 60px 0px;
+    }
+    .left-text{
+      text-align: left;
+      margin: 0px 0px 0px 20px;
+    }
+    .left-text h1{
+      font-size: 30px;
+      line-height: 40px;
+    }
+    .left-text p{
+      font-size: 13px;
+      line-height: 23px;
+    }
+    .right-text h1{
+      font-size: 30px;
+      line-height: 40px;
+    }
+    .feature{
+      padding: 0px 0px 30px;
+    }
+    .inner-feature{
+      padding: 40px 30px;
+      margin: 0px 0px 15px 40px;
+    }
+    .col-4{
+      width: 100%;
+      float: left;
+    }
+    .footer{
+      width: 100%;
+      padding: 8px 0px;
+    }
+    .footer p{
+      font-size: 13px;
+      line-height: 23px;
+    }
+
+
+  /* CSS */
+
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads, Notebook (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+
+    .header{
+      padding: 10px 0px;
+    }
+    .container{
+      width: 90%;
+      margin: 0px auto;
+}
+    .col-6 {
+      width: 100%;
+      float: left;
+      margin: 0px 0px 0px 10px;
+}
+    .header .logo{
+      display: block;
+      text-align: left;
+}
+    .nav-menu{
+      text-align: left;
+}
+    .nav-menu li a{
+      font-size: 14px;
+}
+    .benner{
+      padding: 40px 0px;
+    }
+    .benner h1{
+      font-size: 32px;
+      line-height: 42px;
+      margin: 40px 0px 10px;
+    }
+    .benner p{
+      font-size: 14px;
+      line-height: 24px;
+    }
+    .benner img{
+      width: 80%;
+    }
+    .successfully{
+      width: 100%;
+      padding: 60px 0px;
+    }
+    .left-text{
+      text-align: left;
+      margin: 0px 0px 0px 20px;
+    }
+    .left-text h1{
+      font-size: 32px;
+      line-height: 42px;
+    }
+    .left-text p{
+      font-size: 14px;
+      line-height: 24px;
+    }
+    .right-text h1{
+      font-size: 30px;
+      line-height: 40px;
+    }
+    .feature{
+      padding: 0px 0px 30px;
+    }
+    .inner-feature{
+      padding: 55px 40px;
+      margin: 0px 0px 15px 80px;
+    }
+    .col-4{
+      width: 100%;
+      float: left;
+    }
+    .footer{
+      width: 100%;
+      padding: 12px 0px;
+    }
+    .footer p{
+      font-size: 14px;
+      line-height: 24px;
+    }
+
+
+  /* CSS */
+
+  
+}
+
